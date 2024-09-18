@@ -3,5 +3,6 @@ Web scraping is an automated method for extracting data from webpages, and its i
 Examples include:
 
 **Selenium with ChromeDriver:** For dynamic website interaction and scraping.
+
 **Trafilatura:** Specialized in extracting news articles and web content.
 By exploring these tools, this repository aims to offer a comprehensive resource for automated data retrieval in AI/ML applications.
